@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on learning and expanding my knowledge.
+- 🌱 I’m currently learning Go and CS fundamentals.
+- 👯 I’m looking to collaborate on open-source projects and be active in communities.
+- 💬 Ask me about Physics & Datascience. I may be able to help.
+- ⚡ I use Neovim btw.
+
 <!--
 **0xshen/0xshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
