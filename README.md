@@ -1,22 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
 
-- 🔭 I’m currently working on learning and expanding my knowledge.
-- 🌱 I’m currently learning Go and CS fundamentals.
-- 👯 I’m looking to collaborate on open-source projects and be active in communities.
-- 💬 Ask me about Physics & Datascience. I may be able to help.
-- ⚡ I use Neovim btw.
+- 🔭Programmer with a strong background in physics and quantum computations, adept at backend development and passionate about Data Science and Data Systems Engineering.
+  
+- 🌱 Continuously deepening my knowledge across various domains, with a focus on excelling in backend development while advancing skills in data-driven technologies.
 
-<!--
-**0xshen/0xshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 Enthusiastic about collaborating on open-source projects and actively participating in tech communities, particularly in backend development, data-related endeavors, and systems engineering.
 
-Here are some ideas to get you started:
+- 💬 Don't hesitate to reach out for discussions on Physics, Data Science, Backend Development, or Data Systems Engineering—I'm here to share insights and contribute to meaningful conversations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I use Neovim btw :)
+
+### My Toolbox
+[![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,cs,c,lua,bash,anaconda,tensorflow,pytorch,sklearn,latex,django,dotnet,vue,html,css,tailwind,nodejs,docker,ansible,neovim,postgres,mongo,git,linux,raspberrypi,arduino)](https://skillicons.dev)
+
