@@ -11,5 +11,5 @@
 - ⚡ I use Neovim btw :)
 
 ### My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=go,py,ts,cs,lua,tensorflow,pytorch,sklearn,django,dotnet,vue,tailwind,docker,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,ts,cs,lua,tensorflow,pytorch,sklearn,django,dotnet,vue,angula,tailwind,docker,raspberrypi)]()
 
