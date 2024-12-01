@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭Programmer with a strong background in physics and quantum computations, adept at backend development and passionate about Data Science and Data Systems Engineering.
+- 🔭Experienced and passionate software engineer with a strong background in programming and system design.
   
 - 🌱 Continuously deepening my knowledge across various domains, with a focus on excelling in backend development while advancing skills in data-driven technologies.
 
